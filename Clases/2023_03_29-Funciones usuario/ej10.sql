@@ -1,0 +1,7 @@
+CREATE FUNCTION `ej10`(ciudad VARCHAR(20)
+) RETURNS int(11)
+BEGIN
+	DECLARE total INTEGER;
+    SELECT COUNT(*) INTO total FROM users WHERE city = ciudad;
+	RETURN total;
+END
