@@ -111,3 +111,21 @@ FLUSH PRIVILEGES;
     6. Elimina el usuario que has creado.
 		-	DROP USER 'jose'@'localhost'
 */
+
+/*
+	CLASE 13 DE ABRIL BD
+    -	CSV ---> como estan formados, como importarlos, como exportarlos
+		+	Practica para el viernes.
+        
+	-	PROCEDIMIENTOS ---> definicion de procedimiento, sintaxis, diferencia vs funciones, ejercicios.
+		+	Con parametros
+        +	Sin parametros
+        +	Con transacciones
+        +	Con returns
+        +	Con condicionales.
+	
+    CLASE MIERCOLES SIGUIENTE.
+    -	Examen BD.
+	-	TRIGGERS.
+    -	T
+*/
