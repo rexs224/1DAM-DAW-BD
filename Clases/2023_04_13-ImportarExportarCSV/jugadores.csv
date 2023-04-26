@@ -1,0 +1,497 @@
+1,Marcus Smart,Oklahoma State,1.91,100,PG,1
+2,Payton Pritchard,Oregon,1.88,86,PG,1
+3,J.D. Davison,Alabama,1.91,88,PG,1
+4,Derrick White,Colorado,1.93,86,SG,1
+5,Malcolm Brogdon,Virginia,1.96,104,SG,1
+6,Jaylen Brown,California,1.98,100,SF,1
+7,Sam Hauser,Virginia,2.03,98,SF,1
+8,Danilo Gallinari,Italia,2.08,106,SF,1
+9,Justin Jackson,North Carolina,2.01,100,SF,1
+10,Jayson Tatum,Duke,2.03,95,PF,1
+11,Grant Williams,Tennessee,1.98,107,PF,1
+12,Blake Griffin,Oklahoma,2.06,113,PF,1
+13,Al Horford,Florida,2.06,109,C,1
+14,Mfiondu Kabengele,Florida State,2.06,113, C,1
+15,Robert Williams,Texas A&M,2.03,109, C,1
+16,Noah Vonleh,Indiana,2.08,117,C,1
+17,Luke Kornet,Vanderbilt,2.18,113,C,1
+18,Fred VanVleet,Wichita State,1.83,91,PG,2
+19,Malachi Flynn,San Diego State,1.85,80,PG,2
+20,Jeff Dowtin,Rhode Island,1.91,84,PG,2
+21,Gary Trent Jr,Duke,1.96,93,SG,2
+22,Dalano Banton,Nebraska,2.01,92,SG,2
+23,OG Anunoby,Indiana,2.01,109,SF,2
+24,Otto Porter,Georgetown,2.03,103,SF,2
+25,Justin Champagnie,Pittsburgh,1.98,95,SF,2
+26,Ron Harper Jr.,Rutgers,1.93,109,SF,2
+27,Scottie Barnes,Florida State,2.03,102,PF,2
+28,Chris Boucher,Oregon,2.06,90,PF,2
+29,Thaddeus Young,Georgia Tech,2.03,107,PF,2
+30,Juancho Hernangomez,España,2.06,97,PF,2
+31,Pascal Siakam,New Mexico State,2.03,97,C,2
+32,Precious Achiuwa,Memphis,2.03,111,C,2
+33,Khem Birch,UNLV,2.03,103,C,2
+34,Christian Koloko,Arizona,2.16,100,C,2
+35,Tyrese Maxey,Kentucky,1.91,90,PG,3
+36,D´Anthony Melton,USC,1.89,89,PG,3
+37,Shake Milton,SMU,1.96,93,PG,3
+38,James Harden,Arizona State,1.96,100,SG,3
+39,Furkan Korkmaz,Turquía,2.01,92,SG,3
+40,Jaden Springer,Tennessee,1.93,93,SG,3
+41,Julian Champagnie,St. John´s,1.98,96,SG,3
+42,Tobias Harris,Tennessee,2.02,103,SF,3
+43,Matisse Thybulle,Washington,1.96,91,SF,3
+44,Danuel House,Texas A&M,1.98,98,SF,3
+45,P.J. Tucker,Texas,1.96,111,PF,3
+46,Georges Niang,Iowa State,2.01,104,PF,3
+47,Michael Foster Jr.,NBA G-League,2.03,113,PF,3
+48,Joel Embiid,Kansas,2.13,127,C,3
+49,Paul Reed,DePaul,2.03,100,C,3
+50,Montrezl Harrell,Louisville,2.01,109,C,3
+51,Kyrie Irving,Duke,1.88,88,PG,4
+52,Patty Mills,Saint Marys,1.85,82,PG,4
+53,Edmond Sumner,Xavier,1.93,89,PG,4
+54,Alondes Williams,Wake Forest,1.93,95,PG,4
+55,Joe. Harris,Virginia,1.98,100,SG,4
+56,Seth Curry,Duke,1.88,84,SG,4
+57,Cam Thomas,LSU,1.93,95,SG,4
+58,David Duke Jr,Providence,1.96,93,SG,4
+59,Kevin Durant,Texas,2.08,109,SF,4
+60,Royce O Neale,Baylor,1.93,103,SF,4
+61,Kessler Edwards,Pepperdine,2.03,98,SF,4
+62,Ben Simmons,LSU,2.07,109,PF,4
+63,T.J. Warren,NC State,2.03,98,PF,4
+64,Markieff Morris,Kansas,2.03,111,PF,4
+65,Yuta Watanabe,George Washington,2.03,97,PF,4
+66,N. Claxton,Georgia,2.11,98,C,4
+67,D. Sharpe,North Carolina,2.11,120,C,4
+68,Jalen Bruson,Villanova,1.85,86,PG,5
+69,Derrick Rose,Menphis,1.88,89,PG,5
+70,Immanuel Quickley,Kentucky,1.91,85,PG,5
+71,Ryan Arcidiacono,Villanova,1.91,88,PG,5
+72,Miles McBride,West Virginia,1.88,91,PG,5
+73,Evan Fournie,Francia,2.01,93,SG,5
+74,Quentin Grimes,Houston,1.96,93,SG,5
+75,RJ Barret,Duke,1.98,97,SF,5
+76,Svi Mykhailiuk,Kansas,2.01,100,SF,5
+77,Feron Hund,SMU,2.03,88,SF,5
+78,Julius Randle,Kentucky,2.03,113,PF,5
+79,Obi Topin,Dayton,2.06,100,PF,5
+80,Cam Reddish,Duke,2.03,99,PF,5
+81,Mitchell Robinson,N.D.,2.13,109,C,5
+82,Isaiah Hartenstein,Lituania,2.13,113,C,5
+83,Jericho Sims,Texas,2.08,111,C,5
+84,Cade Cunningham,Oklahoma State,2.03,100,PG,6
+85,Killian Hayes,Alemania,1.96,98,PG,6
+86,Cory Joseph,Texas,1.91,91,PG,6
+87,Jaden Ivey,Purdue,1.93,88,SG,6
+88,Alec Burks,Colorado,1.98,97,SG,6
+89,Buddy Boeheim,Syracuse,1.98,93,SG,6
+90,Saddiq Bey,Villanova,2.03,98,SF,6
+91,Hamidou Diallo,Kentucky,1.96,92,SF,6
+92,Rodney McGruder,Kansas State,1.93,93,SF,6
+93,Bojan Bogdanovic,Croacia,2.03,103,PF,6
+94,Isaiah Livers,Michigan,2.01,104,PF,6
+95,Kevin Knox,Kentucky,2.01,98,PF,6
+96,Braxton Key,Virginia,2.03,104,PF,6
+97,Isaiah Stewart,Washington,2.06,113,C,6
+98,Marvin Bagley III,Duke,2.11,107,C,6
+99,Jalen Duren,Memphis,2.11,113,C,6
+100,Nerlens Noel,Kentucky,2.08,100,C,6
+101,Darius Garland,Vanderbilt,1.85,87,PG,7
+102,Ricky Rubio,España,1.91,86,PG,7
+103,Raul Neto,España,1.85,82,PG,7
+104,Donovan Mitchel,Louisville,1.85,98,SG,7
+105,Dylan Windler,Belmont,1.98,89,SG,7
+106,Caris LeVert,Michigan,1.98,93,SF,7
+107,Isaac Okoro,Auburn,1.98,102,SF,7
+108,Cedi Osman,Turquía,2.01,104,SF,7
+109,Evan Mobley,USC,2.13,98,PF,7
+110,Kevin Love,UCLA,2.03,114,PF,7
+111,Dean Wade,Kansas State,2.06,103,PF,7
+112,Lamar Stevens,Penn State,2.03,102,PF,7
+113,Jarrett Allen,Texas,2.11,110,C,7
+114,Robin Lopez,Stanford,2.13,127,C,7
+115,Isaiah Mobley,USC,2.08,109,C,7
+116,Mamadi Diakite,Virginia,2.06,102,C,7
+117,Tyrese Haliburton,Iowa State,1.96,79,PG,8
+118,T.J. McConnell,Arizona,1.88,86,PG,8
+119,Andrew Nembhard,Gonzaga,1.96,89,PG,8
+120,Chris Duarte,Oregon,1.98,86,SG,8
+121,Bennedict Mathurin,Arozona,1.98,95,SG,8
+122,Trevelin Queen,New Mexico State,1.98,86,SG,8
+123,Buddy Hield,Oklahoma,1.93,100,SF,8
+124,Aaron Nesmith,Vanderbilt,1.98,97,SF,8
+125,Kendal Brown,Baylor,2.03,93,SF,8
+126,Jalen Smith,Maryland,2.08,102,PF,8
+127,Oshae Brissett,Syracuse,2.01,95,PF,8
+128,Terry Taylor,Austin Peay,1.96,104,PF,8
+129,Daniel Theis,Alemania,2.03,111,PF,8
+130,James Johnson,Wake Forest,2.01,109,PF,8
+131,Myles Turner,Texas,2.11,113,C,8
+132,Isaiah Jackson,Kentucky,2.08,93,C,8
+133,Goga Bitadze,Serbia,2.11,111,C,8
+134,Zach LaVine,UCLA,1.96,92,SG,9
+135,Coby White,North Carolina,1.93,87,SG,9
+136,Lonzo Ball,UCLA,1.98,86,PG,9
+137,Ayo Dosunmu,Illinois,1.93,91,PG,9
+138,Goran Dragic,Eslovenia,1.91,86,pg,9
+139,Alex Caruso,Texas A&M,1.96,84,SG,9
+140,DeMar DeRozan,USC,1.98,100,SF,9
+141,Javonte Green,Radford,1.96,93,SF,9
+142,Dalen Terry,Arizona,2.01,88,SF,9
+143,Malcolm Hill,Illinois,1.98,100,SF,9
+144,Patrick Williams,Florida State,2.01,103,PF,9
+145,Derrick Jones Jr,UNLV,1.98,95,PF,9
+146,Kostas Antetokounmpo,Dayton,2.08,91,PF,9
+147,Nikola Vucevic,USC,2.11,118,C,9
+148,Andre Drummond,Uconn,2.08,127,C,9
+149,Tony Bradley,North Carolina,2.11,112,C,9
+150,Marco Simonovic,Serbia,2.13,100,C,9
+151,Jrue Holiday,UCLA,1.91,93,PG,10
+152,George Hill,UIPUI,1.91,85,PG,10
+153,Jevon Carter,West Virginia,1.85,91,PG,10
+154,Grayson Allen,Duke,1.93,90,SG,10
+155,Pat Connaughton,Notre Dame,1.96,95,SG,10
+156,Wesley Matthews,Marquette,1.93,100,SG,10
+157,A.J. Green(D),Northern Iowa,1.93,86,SG,10
+158,Khris Middleton,Texas A&M,2.01,101,SF,10
+159,Jordan Nwora,Louisville,2.01,102,SF,10
+160,Marjon Beauchamp,NBA G_League,1.98,90,SF,10
+161,Joe Ingles,Israel,2.01,100,SF,10
+162,G.Antetokounmpo,Grecia,2.11,110,PF,10
+163,Bobby Portis,Arkansas,2.08,113,PF,10
+164,T.Antetokounmpo,Grecia,1.98,99,PF,10
+165,Brook Lopez,Standford,2.13,128,C,10
+166,Serge Ibaka,España,2.13,107,C,10
+167,S.Mamukelashvili(D),Seton Hall,2.11,109,C,10
+168,Markelle Flutz,Whasington,1.91,95,PG,11
+169,Cole Anthony,Noth Carolina,1.91,86,PG,11
+170,R.J. Hamptom,Nueva Zelanda,1.98,88,PG,11
+171,Jalen Suggs,Gonzaga,1.93,93,SG,11
+172,Gary Harris,Michigan State,1.93,95,SG,11
+173,Kevon Harrys,Austin,1.98,98,SG,11
+174,Franz Wagner,Michigan,2.05,100,SF,11
+175,Chuma Okele,Auburn,2.03,104,SF,11
+176,Terrence Ross,Washington,1.98,93,SF,11
+177,Caleb Houstan,Michigan,2.03,93,SF,11
+178,Paolo Banchero,Duke,2.08,113,PF,11
+179,Jonathan Isaac,Florida State,2.11,104,PF,11
+180,Admiral Schofield,Tenessee,1.96,109,PF,11
+181,Wendell Carter,Duke,2.06,122,C,11
+182,Mo Bamba,Texas,2.13,105,C,11
+183,Moritz Wagner,Michigan,2.11,111,C,11
+184,Bol Bol,Oregon,2.18,100,C,11
+185,Monte Morris,Iowa State,1.91,79,PG,12
+186,Delon Wright,Utah,1.96,84,PG,12
+187,Jordan Goodwin,Saint Louis,1.91,91,PG,12
+188,Bradley Beal,Florida,1.91,94,SG,12
+189,Johnny Davis,Wisconsin,1.93,88,SG,12
+190,Jordan Schakel,San Diego State,1.98,91,SG,12
+191,Deni Avdija,Israel,2.05,99,SF,12
+192,Will Barton,Memphis,1.98,86,SF,12
+193,Corey Kispert,Gonzaga,2.01,100,SF,12
+194,Kyle Kuzma,Utah,2.06,100,PF,12
+195,Rui Hachimura,Gonzaga,2.03,104,PF,12
+196,Anthony Gill,Virginia,2.03,104,PF,12
+197,Isaiah Todd,NBA G-League,2.08,93,PF,12
+198,Kristaps Porzingis,España,2.21,109,C,12
+199,Daniel Gafford,Arkansas,2.08,106,C,12
+200,Taj Gibson,USC,2.06,105,C,12
+201,Vernon Carey Jr.,Duke,2.06,117,C,12
+202,Trae Young,Oklahoma,1.85,82,PG,13
+203,Aaron Holiday,UCLA,1.83,84,PG,13
+204,Dejounte Murray,Washingtons,1.93,82,SG,13
+205,Bogdan Bogdanovic,Serbia,1.98,100,SG,13
+206,Vit Krejci,España,2.01,88,SG,13
+207,Tyrese Martin,Uconn,1.98,98,SG,13
+208,DeAndre Hunter,Virginia,2.01,102,SF,13
+209,Justin Holiday,Washington,1.98,82,SF,13
+210,A.J. Griffin,Duke,1.98,101,SGSF,13
+211,Trent Forrest,Florida State,1.93,95,SF,13
+212,Jarrett Culver,Texas Tech,1.98,88,SF,13
+213,John Collins,Wake Forest,2.06,107,PF,13
+214,Jalen Johnson,Duke,2.06,100,PF,13
+215,Clint Capela,Francia,2.09,109,C,13
+216,Onyeka Okongwu,USC,2.06,111,C,13
+217,Frank Kaminsky,Wisconsin,2.13,109,C,13
+218,Terry Rozier,Louisville,1.85,88,SG,14
+219,Cody Martin,Nevada,1.98,91,SG,14
+220,James Bouknight,Uconn,1.93,84,SG,14
+221,LaMelo Ball,Australia,2.01,84,PG,14
+222,Dennis Smith Jr.,NC State,1.88,93,PG,14
+223,Théo Maledon,Francia,1.91,80,PG,14
+224,Gordon Hayward,Butler,2.01,104,SF,14
+225,Kelly Oubre,Kansas,1.98,93,SF,14
+226,Bryce McGowens (D),Nebraska,1.96,82,SF,14
+227,P.J. Washington,Kentucky,2.01,104,PF,14
+228,Jalen McDaniels,San Diego State,2.06,96,PF,14
+229,J.T. Thor,Auburn,2.06,93,PF,14
+230,Mason Plumlee,Duke,2.13,113,C,14
+231,Mark Williams,Duke,2.13,110,C,14
+232,Nick Richards,Kentucky,2.13,113,C,14
+233,Kai Jones,Texas,2.08,102,C,14
+234,Kyle Lowry,Villanova,1.83,89,PG,15
+235,Gabe Vincent,UC Santa Barbara,1.91,91,PG,15
+236,Tyler Herro,Kentucky,1.96,88,SG,15
+237,Victor Oladipo,Indiana,1.93,97,SG,15
+238,Caleb Martin,Nevada,1.96,91,SF,15
+239,Duncan Robinson,Michigan,2.01,98,SF,15
+240,Max Strus,DePaul,1.98,98,SF,15
+241,Jimmy Butler,Marquette,2.01,104,PF,15
+242,Haywood Highsmith,Wheeling Jesuit,2.01,100,PF,15
+243,Bam Adebayo,Kentuchy,2.06,116,C,15
+244,Dewayne Dedmon,USC,2.13,111,C,15
+245,Omer Yurtseven,Georgetown,2.13,125,C,15
+246,Udonis Haslem,Florida,2.03,107,C,15
+247,Mike Conley,Ohio State,1.85,79,PG,16
+248,Jordan Clarkson,Missouri,1.93,88,PG,16
+249,N. Alexander-W,Virginia Tech,1.96,93,PG,16
+250,Collin Sexton,Alabama,1.85,86,SG,16
+251,Leandro Bolmaro,España,1.98,83,SG,16
+252,Johnny Juzang,UCLA,1.96,95,SG,16
+253,Malik Beasley,Florida State,1.93,99,SF,16
+254,T. Horton-Tucker,Iowa State,1.93,106,SF,16
+255,Ochai Agbaji,Kansas,1.96,98,SF,16
+256,Simone Fontecchio,España,2.03,95,SF,16
+257,Lauri Markkanen,Arizona,2.13,109,PF,16
+258,Jarred Vanderbilt,Kentuky,2.03,95,PF,16
+259,Rudy Gay,Uconn,2.03,113,PF,16
+260,Kelly Olynyk,Gonzaga,2.11,109,PF,16
+261,Walker Kessler,Auburn,2.13,116,C,16
+262,Udoka Azubuike,Kansas,2.13,122,C,16
+263,Micah Potter,Wisconsin,2.08,112,C,16
+264,Jamal Murray,Kentucky,1.93,94,PG,17
+265,Bones Hyland,VCU,1.91,78,PG,17
+266,Ish Smith,Wake Forest,1.83,83,PG,17
+267,Collin Gillespie,Villanova,1.88,89,PG,17
+268,K. Caldwell-P,Georgia,1.96,93,SG,17
+269,Bruce Browny,Miami,1.93,92,SG,17
+270,Christian Braun,Kansas,1.98,95,SG,17
+271,Peyton Watson,UCLA,2.03,91,SG,17
+272,Michael Porter Jr,Missouri,2.08,95,SF,17
+273,Davon Reed,Miami,1.98,100,SF,17
+274,Vlatko Cancar,Serbia,2.04,95,SF,17
+275,Aaron Gordon,Arizona,2.03,107,PF,17
+276,Jeff Green,Georgetown,2.03,103,PF,17
+277,Jack White,Duke,2.00,102,PF,17
+278,Nikola Jokic,Serbia,2.13,113,C,17
+279,DeAndre Jordan,Texas A&M,2.11,120,C,17
+280,Zeke Nnaji,Arizona,2.11,109,C,17
+281,Damian Lillard,Weber State,1.88,88,PG,18
+282,Shaedon Sharpe,Kentucky,1.98,90,PG,18
+283,Anfernee Simons,IMG Academy,1.91,82,SG,18
+284,Gary Payton II,Oregon State,1.91,88,SG,18
+285,Keon Johnson,Tennesse,1.93,84,SG,18
+286,Josh Hart,Villanova,1.96,98,SF,18
+287,Nassir Little,North Carolina,1.96,100,SF,18
+288,Justise Winslow,Duke,1.98,101,SF,18
+289,Jerami Grant,Syracuse,2.03,95,PF,18
+290,Trendon Watford,LSU,2.06,109,PF,18
+291,Jabari Walker,Colorado,2.01,97,PF,18
+292,John Butler Jr,Florida State,2.16,79,PF,18
+293,Jusuf Nurkic,Croacia,2.13,132,C,18
+294,Oliver Sarr,Kentucky,2.13,109,C,18
+295,Drew Eubanks,Oregon state,2.06,111,C,18
+296,Greg Brown,Texas,2.06,93,C,18
+297,D`Angelo Russel,Ohio State,1.93,90,PG,19
+298,Jordan McLaughlin,USC,1.83,80,PG,19
+299,Jaylen Nowell,Washington,1.93,92,PG,19
+300,Anthony Edwards,Georgia,1.93,99,SG,19
+301,Austin Rivers,Duke,1.93,91,SG,19
+302,Bryn Forbes,Michigan State,1.88,93,SG,19
+303,Jaden McDaniels,Washington,2.06,88,SF,19
+304,Taurean Prince,Baylor,2.01,95,SF,19
+305,Wendell Moore,Duke,1.96,98,SF,19
+306,Josh Minott,Memphis,2.03,93,SF,19
+307,Karl-Anthony Towns,Kentucky,2.13,111,PF,19
+308,Kyle Anderson,UCLA,2.04,104,PF,19
+309,Rudy Gobert,Francia,2.16,117,C,19
+310,Naz Reid,LSU,2.06,112,C,19
+311,Nathan Knight,William & Mary,2.06,109,C,19
+312,Luka Garza,Iowa,2.11,110,C,19
+313,Shai Gilgeous-Alexander,Kentucky,1.96,82,PG,20
+314,Josh Giddey,Australia,2.03,93,SG,20
+315,Tre Mann,Florida,1.96,86,SG,20
+316,Isaiah Joe,Arkansas,1.96,82,SG,20
+317,Luguentz Dort,Arizona State,1.91,98,SF,20
+318,Jalen Williams,Santa Clara,1.96,93,SF,20
+319,Aaron Wiggins,Maryland,1.98,91,SF,20
+320,Lindy Waters,Oklahoma State,1.98,98,SF,20
+321,Aleksej Pokusevski,Grecia,2.13,86,PF,20
+322,Darius Bazley,Princeton HS (OH),2.03,94,PF,20
+323,Kenrich Williams,TCU,1.98,95,PF,20
+324,Ousmane Dieng,Nueva Zelanda,2.08,93,PF,20
+325,Eugene Omoruyi,Oregon,2.01,111,PF,20
+326,Jeremiah Robinson-Earl,Villanova,2.06,104,C,20
+327,Mike Muscala,Bucknell,2.08,109,C,20
+328,Jaylin Williams,Arkansas,2.08,109,C,20
+329,Chet Holmgren,Gonzaga,2.13,88,C,20
+330,Russell Westbrook,UCLA,1.91,91,PG,21
+331,Patrick Beverley,Arkansas,1.85,89,PG,21
+332,Scottie Pippen Jr,Vanderbilt,1.85,82,PG,21
+333,Kendrick Nunn,Oakland,1.88,86,SG,21
+334,Dennis Schroder,Alemania,1.91,78,SG,21
+335,Lonnie Walker,Miami,1.96,93,SG,21
+336,Lebron James,St. Vincent-St. Mary´s OH,2.03,113,SF,21
+337,Troy Brown,Oregon,1.98,98,SF,21
+338,Matt Ryan,Chatanooga,2.01,98,SF,21
+339,Austin Reaves,Oklahoma,1.96,93,SF,21
+340,Max Christie,Michigan State,1.93,86,SF,21
+341,Anthony Davis,Kentucky,1.93,86,PF,21
+342,Juan Toscano,Mexico,1.93,86,PF,21
+343,Wenyen Gabriel,Sudan del Sur,1.93,86,PF,21
+344,Cole Swider,Syracuse,1.93,86,PF,21
+345,Damian Jones,Vanderbilt,1.93,86,C,21
+346,Thomas Bryant,Indiana,1.93,86,C,21
+347,Chris Paul,Estados Unidos,1.85,79,PG,22
+348,Cameron Payne,Estados Unidos,1.91,84,PG,22
+349,Cameron Johnson,Estados Unidos,2.03,95,PG,22
+350,Langston Galloway,Estados Unidos,1.89,91,PG,22
+351,Jevon Carter,Estados Unidos,1.88,91,PG,22
+352,Devin Booker,Estados Unidos,1.96,93,SG,22
+353,ETwaun Moore,Estados Unidos,1.95,87,SG,22
+354,Ty-Shon Alexander,Estados Unidos,1.92,88,SG,22
+355,Mikal Bridges,Estados Unidos,2.01,95,SF,22
+356,Torrey Craig,Estados Unidos,1.98,100,SF,22
+357,Deandre Ayton,Bahamas,2.09,113,PF,22
+358,Jae Crowder,Estados Unidos,2.00,107,PF,22
+359,Dario Saric,Croacia,2.07,104,PF,22
+360,Abdel Nader,Egipto,1.98,102,PF,22
+361,Frank Kaminsky,Estados Unidos,2.11,104,C,22
+362,Jalen Smith,Estados Unidos,2.08,98,C,22
+363,Stephen Curry,Davidson,1.91,88,PG,23
+364,Jordan Poole,Michigan,1.93,88,PG,23
+365,Ty Jerome,Virginia,1.96,88,PG,23
+366,Klay Thompson,Washington State,1.98,98,SG,23
+367,Donte DiVincenzo,Michigan,1.93,92,SG,23
+368,Ryan Rollins,Toledo,1.93,82,SG,23
+369,Andrew Wiggins,Kansas,2.01,93,SF,23
+370,Andre Iguodala,Arizona,1.98,98,SF,23
+371,Moses Moody,Arkansas,1.98,93,SF,23
+372,Anthony Lamb,Vermont,1.98,102,SF,23
+373,Draymond Green,Michigan State,1.98,107,PF,23
+374,Jonathan Kuminga,NBA G-League,2.03,95,PF,23
+375,P. Baldwin Jr.,Milwaukee,2.06,104,PF,23
+376,Kevon Looney,UCLA,2.06,113,C,23
+377,James Wiseman,Memphis,2.13,111,C,23
+378,JaMychal Green,Alabama,2.03,103,C,23
+379,De Aaron Fox,Kentucky,1.91,84,PG,24
+380,Davion Mitchell,Baylor,1.88,93,PG,24
+381,Matthew Dellavedova,Saint Marys,1.91,91,PG,24
+382,Kevin Huerter,Maryland,2.01,86,SG,24
+383,Malik Monk,Kentucky,1.91,91,SG,24
+384,Keon Ellis,Alabama,1.93,76,SG,24
+385,Harrison Barnes,North Carolina,2.03,102,SF,24
+386,Terence Davis,Ole Miss,1.93,91,SF,24
+387,Chima Moneke,UC Davis,1.98,95,SF,24
+388,KZ Okpala,Stanford,2.03,98,PF,24
+389,Keegan Murray,Iowa,2.03,98,PF,24
+390,Trey Lyles,Kentucky,2.06,106,PF,24
+391,Chimezie Metu,USC,2.06,102,PF,24
+392,Domantas Sabonis,Gonzaga,2.11,109,C,24
+393,Richaun Holmes,Bowling Green,2.08,107,C,24
+394,Alex Len,Maryland,2.13,113,C,24
+395,Neemias Queta,Utah State,2.11,112,C,24
+396,Reggie Jackson,Boston College,1.91,94,PG,25
+397,John Wall,Kentucky,1.93,95,PG,25
+398,Jason Preston,Ohio,1.93,85,PG,25
+399,Paul George,Fresno State,2.03,100,SG,25
+400,Norman Powell,UCLA,1.91,98,SG,25
+401,Terance Mann,Florida State,1.96,98,SG,25
+402,Kawhi Leonard,San Diego State,2.01,102,SF,25
+403,Luke Kennard,Duke,1.96,93,SF,25
+404,B.J. Boston,Kentucky,1.98,85,SF,25
+405,Marcus Morris,Kansas,2.03,99,PF,25
+406,Nicolas Batum,Francia,2.04,91,PF,25
+407,Robert Covington,Tennessee State,2.01,95,PF,25
+408,Amir Coffey,Minnesota,2.01,95,PF,25
+409,Moussa Diabate (D),Michigan,2.08,98,PF,25
+410,Ivica Zubac,Croacia,2.13,109,C,25
+411,Moses Brown (D),UCLA,2.18,111,C,25
+412,C.J. McCollum,Lehigh,1.91,86,PG,26
+413,Brandon Ingram,Duke,2.01,86,SG,26
+414,Devonte Graham,Kansas,1.85,84,SG,26
+415,Kira Lewis Jr.,Alabama,1.91,75,SG,26
+416,Garrett Temple,LSU,1.96,88,SG,26
+417,Zion Williamson,Duke,1.98,129,PF,26
+418,Larry Nance Jr,Wyoming,2.01,111,SG,26
+419,Naji Marshall,Xavier,2.01,100,SG,26
+420,Jonas Valanciunas,Lituania,2.11,120,C,26
+421,Jaxson Hayes,Texas,2.11,100,C,26
+422,Willy Hernangómez,España,2.11,109,C,26
+423,Jose Alvarado,Georgia Tech,1.83,81,PG,26
+424,Dereon Seabron,NC State,1.96,82,SG,26
+425,Herbert Jones,Alabama,1.98,93,SF,26
+426,Trey Murphy III,Virginia,2.06,93,SF,26
+427,Dyson Dnaiels,NBA G-League,2.03,88,SF,26
+428,Jaxon Hayes,Texas,2.11,100,C,26
+429,E.J. Liddell,Ohio State,2.01,110,PF,26
+430,Tre Jones,Duke,1.91,94,PG,27
+431,Blake Wesley,Notre Dame,1.96,85,PG,27
+432,Jordan Hall,Saint Josephs,2.03,98,PG,27
+433,Devin Vassell,Florida State,2.01,88,SG,27
+434,Josh Richardson,Tennessee,1.96,91,SG,27
+435,Malaki Branham,Ohio State,1.96,88,SG,27
+436,Romeo Langford,Indiana,1.93,98,SG,27
+437,Jeremy Sochan,Baylor,2.06,104,SF,27
+438,Doug McDermott,Creighton,2.01,102,SF,27
+439,Dominick Barlow,NBA G-League,2.06,97,SF,27
+440,Keldon Johnson,Kentuky,1.96,100,PF,27
+441,Zach Collins,Gonzaga,2.11,113,PF,27
+442,Keita Bates-Diop,Ohio State,2.03,104,PF,27
+443,Jakob Poeltl,Utah,2.16,111,C,27
+444,Gorgi Dieng,Lousville,2.08,114,C,27
+445,Isaiah Roby,Nebraska,2.03,104,C,27
+446,Charles Bassey,Western Kentuky,2.08,104,C,27
+447,Kevin Porter Jr.,USC,1.93,92,PG,28
+448,TyTy Washington,Kentucky,1.88,89,PG,28
+449,Trevor Hudgins,Northwest Missouri State,1.83,82,PG,28
+450,Jalen Green,NBA G-League,1.98,81,SG,28
+451,Josh Christopher,Arizona State,1.96,98,SG,28
+452,Garrison Mathews,Lipscomb,1.96,98,SG,28
+453,Eric Gordon,Indiana,1.91,98,SF,28
+454,Jae Sean Tate,Ohio State,1.93,104,SF,28
+455,Daishen Nix,NBA G-League,1.96,102,SF,28
+456,Jabari Smith Jr.,Auburn,2.08,100,PF,28
+457,JTari Eason,LSU,2.01,98,PF,28
+458,K.J. Martin Jr.,IMG Academy,2.01,98,PF,28
+459,Darius Days,LSU,2.01,111,PF,28
+460,Bruno Fernando,Maryland,2.06,109,C,28
+461,Alperen Sengun,Turquía,2.06,107,C,28
+462,Usman Garuba,España,2.03,100,C,28
+463,Boban Marjanovic,Serbia,2.23,132,C,28
+464,Luka Doncic,España,2.01,104,PG,29
+465,Frank Ntilikina,Francia,1.93,91,PG,29
+466,Facundo Campazzo,España,1.81,75,PG,29
+467,Tim Hardaway Jr.,Michigan,1.96,93,SG,29
+468,Spencer Dinwiddie,Colorado,1.96,98,SG,29
+469,Theo Pinson,North Carolina,1.96,96,SG,29
+470,Tyler Dorsey(D),Oregon,1.93,83,SG,29
+471,Reggie Bullock,North Carolina,1.98,93,SF,29
+472,Josh Green,Arizona,1.98,95,SF,29
+473,D.Finney-Smith,Florida,2.01,100,PF,29
+474,Maxi Kleber,Alemania,2.07,109,PF,29
+475,Davis Bertans,Eslovenia,2.08,102,PF,29
+476,JaVale McGee,Nevada,2.13,122,C,29
+477,Christian Wood,UNLV,2.08,101,C,29
+478,Dwight Powell,Stanford,2.08,109,C,29
+479,Jaden Hardy,NBA G-League,1.93,90,PG,29
+480,McKinley Wright (D),Colorado,1.83,88,PG,29
+481,JA Morant,Murray State,1.89,79,PG,30
+482,Tyus Jones,Duke,1.84,89,PG,30
+483,Kennedy Chandler,Tennessee,1.83,78,PG,30
+484,Desmond Bane,TCU,1.98,98,SG,30
+485,John Konchar,Purdue Fort Wayne,1.97,95,SG,30
+486,Vince Williams Jr.,VCU,1.98,93,SG,30
+487,Dillon Brooks,Oregon,1.99,100,SF,30
+488,Zlaire Williams,Stanford,2.04,84,SF,30
+489,David Roddy,Colorado State,1.96,118,SF,30
+490,Danny Green,North Carolina,1.98,98,SF,30
+491,Santi Alcama,Loyola,2.11,102,PF,30
+492,Brandon Clarke,Gonzaga,2.03,95,PF,30
+493,Jake LaRavia,Wake Forest,2.01,103,PF,30
+494,Jaren Jackson Jr.,Michigan State,2.11,110,PF,30
+495,Steven Adams,Pittsburgh,2.11,120,C,30
+496,Xavier Tillman,Michigan State,2.03,111,C,30
+497,Kennet Lofton Jr,Luisiana Tech,1.98,127,C,30
